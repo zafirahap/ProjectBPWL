@@ -65,7 +65,6 @@
             <?php
           }
           ?>
-
           <form method="post" action="login.php">
             <div class="form-group">
                   <label>Username</label>
